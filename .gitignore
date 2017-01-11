@@ -24,6 +24,7 @@ sites/*/private
 
 # Ignore paths that contain user-uploaded modules
 modules
+libraries
 
 # Ignore SimpleTest multi-site environment.
 sites/simpletest
