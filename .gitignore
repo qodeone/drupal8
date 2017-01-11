@@ -22,6 +22,9 @@ sites/*/services*.yml
 sites/*/files
 sites/*/private
 
+# Ignore paths that contain user-uploaded modules
+modules
+
 # Ignore SimpleTest multi-site environment.
 sites/simpletest
 
